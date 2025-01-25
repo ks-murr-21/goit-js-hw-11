@@ -33,7 +33,7 @@ const renderImg = imgs => {
                 data-source=${largeImageURL}
                 alt='${tags}'
               />
-                 
+                  
               <ul class="description">
                 <li class="descr-item">
                   <p class="descr-text">
