@@ -9,7 +9,7 @@
 @import url('simplelightbox/dist/simple-lightbox.min.css');
 
 /* Sections style */
-/*@import url('./vite-promo.css');*/
+@import url('./vite-promo.css');
 @import url('./form.css');
 @import url('./gallery.css');
 @import url('./loader.css');
